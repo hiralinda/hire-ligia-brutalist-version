@@ -1,6 +1,6 @@
 # Hire Ligia (Brutalist Version)
 
-This is the brutalist version of my [Hire Ligia's Personal Portfolio React App](https://hiralinda.github.io/hireligia/), showcasing my skills, certificates, and projects. The website features a dark theme, presenting a minimalist yet impactful layout. 
+This is the brutalist version of my [Hire Ligia's Personal Portfolio React App](https://hiralinda.github.io/hireligia/), showcasing my skills, certificates, and projects. The website features a dark theme, presenting a brutalist yet impactful layout. 
 
 ## Description
 
