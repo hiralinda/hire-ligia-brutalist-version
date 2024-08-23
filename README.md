@@ -4,7 +4,7 @@ This is the brutalist version of my [Hire Ligia's Personal Portfolio React App](
 
 ## Live Website
 
-[URL Link](https://hiralinda.github.io/hire-ligia-brutalist-version/)
+[URL Link](https://hiralinda.github.io/hireligia-brutalist-version/)
 
 ## Description
 
@@ -28,12 +28,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hire-ligia-brutalist-version.git
+    git clone https://github.com/yourusername/hireligia-brutalist-version.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd hire-ligia-brutalist-version
+    cd hireligia-brutalist-version
     ```
 
 3. Open `index.html` in your web browser.
